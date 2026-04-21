@@ -4,6 +4,7 @@ Elektronikentwickler als Mitunternehmer gesucht!
 
 Wir bauen den Feuerengel – einen tragbaren Kaminofen für autarkes Camping, Krisenvorsorge und mobile Anwendungen.
 Neben Wärme und Kochfunktion soll das System auch elektrische Energie erzeugen.
+Zu finden unter www.feuerengel.eu .
 
 Dafür suchen wir dich als Mitunternehmer mit Fokus auf Embedded Electronics.
 
